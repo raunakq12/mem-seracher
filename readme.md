@@ -22,3 +22,6 @@ Usage
 
 ```bash
 python memsearch.py -f memory_dump.raw -k password token APIKEY -c 40 -i
+
+
+
